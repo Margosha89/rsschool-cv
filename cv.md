@@ -42,6 +42,7 @@ Unfortunately not in IT...
       Minsk State Linguistic University
       Speciality: Linguist, Teacher of two foreign languages (English, Spanish) and literature
 *****
+
 ### Languages:
 
 + English level - **B2 minimum**
