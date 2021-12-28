@@ -8,6 +8,7 @@
 + **Phone:** +375 44 578 23 49 (mob.)
 + **Location:** Belarus, Borisov
 *******
+
 ### About myself:
 Highly motivated, diligent, stress-resistant, eager for learning, with long-term experience in working in a big team. 
 
