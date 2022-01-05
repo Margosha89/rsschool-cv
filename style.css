@@ -1,29 +1,30 @@
-div
-{
+div {
     border-radius: 5px;
-    }
-#header
-{
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#header {
     position: fixed;
+    left:600px;
     z-index: 1;
     height:40px;
-    width: 98%;
-    background-color: #b4bee4;
-    margin-bottom: 10px
-    }
+    width: 50%;
+    background-color: #8eaaaf;
+    margin-bottom: 10px;
+}
 
 #main {
     font-family: 'Merriweather', sans-serif;
    }
 
-#email{
-    float:right;
-    margin-right: 20px;
-	padding-bottom: 10px;
-	font-size: 16px;
-	color: #ffffff;
-}
-
+#background {
+    background: url(assets/img/Фон2.jpg) no-repeat 50% 50%;
+}  
 #contact
 {
     margin-left:45%;
@@ -65,7 +66,6 @@ a:hover {
     margin-left: 14%;*/
     height: auto;
     width: 99%;
-    background-color: #E3EDD8;
     }
 
 /*.left
@@ -83,9 +83,22 @@ a:hover {
     height:40px;
     clear:both;
     position: relative;
-    background-color: #C1E3E1;
+    background-color: #3c4e52;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     }
     
+.section-item a {
+    color: #3d493f;
+    text-decoration: none;  
+    transition: color 0.5s;
+    }
+    
+.section-item a:hover {
+    color: #212929;
+}
+
 h3
 {
     text-decoration: underline;
@@ -106,7 +119,7 @@ table
 td
 {
     padding: 2px;
-    border: 1px solid #E88741;
+    border: 1px solid #395355;
     }
 
 #course-name
